@@ -1,4 +1,4 @@
-<h1 align="center">💪 AI Fitness Assistant 🤖</h1>
+<h1 align="center">🤖 AI Fitness Assistant 💪</h1>
 
 <p align="center">
   🧠 <b>Your Personalized AI-Powered Workout & Diet Companion</b> 💪🥗<br />
