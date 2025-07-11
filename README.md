@@ -8,7 +8,7 @@
   <br /><br />
 </p>
 
-![Demo App](https://github.com/Gauravpatil07/Codeflex---AI-Fitness-Assistant/blob/7b77e5b8d6b8369675300af1f1f4f12fc1abde16/screenshot-for-readme.png)
+![Demo App](https://github.com/Gauravpatil07/Codeflex-AI-Fitness-Assistant/blob/de7b89a5aca845dd4d9f219188674be6d9545709/screenshot.png)
 
 ## ✨ Highlights:
 
